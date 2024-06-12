@@ -10,6 +10,6 @@ Overview:
 
 ![google-analytics screenshot overview](./screenshots/google-analytics.png)
 
-Event Highlight:
+Event Highlight: (same image as above, just focused on event counts)
 
 ![google-analytics screenshot event highlight](./screenshots/analytics-event-highlight.png)
